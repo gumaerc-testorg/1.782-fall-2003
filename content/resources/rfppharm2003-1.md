@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: be85af19-b2ed-7bbe-d00b-96acdd2435e4
 resourcetype: Document
 title: RFPPharm2003.pdf
 uid: 7b87500f-e8a7-8aad-8ad8-ed40d49ddd67

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: be85af19-b2ed-7bbe-d00b-96acdd2435e4
 resourcetype: Document
 title: NepalFinalPresentation.pdf
 uid: 07f9078c-b58f-f031-8c9f-7cd8a4567771

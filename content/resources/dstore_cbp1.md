@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4a1892d1-3a01-9ebc-5d84-64e43b3f5ff2
 resourcetype: Document
 title: dstore_cbp1.pdf
 uid: dc75983c-3467-e01b-238b-bd1762f8f9e3

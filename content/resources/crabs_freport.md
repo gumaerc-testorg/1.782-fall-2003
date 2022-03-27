@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: be85af19-b2ed-7bbe-d00b-96acdd2435e4
 resourcetype: Document
 title: crabs_freport.pdf
 uid: c70ff0c4-6995-4dbc-6126-1ed469d70b32
