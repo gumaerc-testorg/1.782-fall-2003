@@ -6,6 +6,7 @@ file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dstore_cbp1.pdf
 uid: dc75983c-3467-e01b-238b-bd1762f8f9e3
 ---
 Slides for the Drugstore Cowboys group project presentation. Courtesy of Matt Andrews, Sam Haffey, Joe Lin, and Alexandros Machairas. Used with permission.
-

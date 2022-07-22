@@ -6,6 +6,7 @@ file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fa
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: NepalFinalPresentation.pdf
 uid: 07f9078c-b58f-f031-8c9f-7cd8a4567771
 ---
 Slides for the final group project presentation by Clean Waters for Nepal, Inc.
-

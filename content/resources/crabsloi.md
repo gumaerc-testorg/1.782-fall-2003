@@ -7,6 +7,7 @@ file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: crabsloi.pdf
 uid: 64d67177-e036-165f-44cb-f1bb0789c2af
 ---
 CRABS (Caribbean Research Association for the Betterment of water reSources) letter of intent to conduct work in the areas of betterment of water quality, desalination and water resources evaluation.
-

@@ -7,6 +7,7 @@ file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fa
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: dstore_fnl_pt.pdf
 uid: df21e734-26c8-84e0-0a39-fb7462e014be
 ---
 Slides for presentation of the Drugstore Cowboys final project report. Courtesy of Matt Andrews, Sam Haffey, Joe Lin, and Alexandros Machairas. Used with permission.
-

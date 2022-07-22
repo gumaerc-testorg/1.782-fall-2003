@@ -6,6 +6,7 @@ file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fa
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: crabs_freport.pdf
 uid: c70ff0c4-6995-4dbc-6126-1ed469d70b32
 ---
 CRABS Final Project Report containing the following sections: Introduction, Water Resources-Haiti, Water Resources-USVI, St. John Salt Pond Water Quality, References.
-
