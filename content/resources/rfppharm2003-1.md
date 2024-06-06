@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/7b87500fe8a78aad8ad8ed40d49ddd67_RFPPharm2003.pdf
+file_size: 33623
 file_type: application/pdf
 learning_resource_types:
 - Projects

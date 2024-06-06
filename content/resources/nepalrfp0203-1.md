@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/bd942e50416faa21df66c4076e3d525c_NepalRFP0203.pdf
+file_size: 187676
 file_type: application/pdf
 learning_resource_types:
 - Projects
