@@ -2,7 +2,7 @@
 content_type: resource
 description: Slides for the final group project presentation by Clean Waters for Nepal,
   Inc.
-file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/07f9078cb58ff0318c9f7cd8a4567771_NepalFinalPresentation.pdf
+file: /ol-ocw-studio-app/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/07f9078cb58ff0318c9f7cd8a4567771_NepalFinalPresentation.pdf
 file_size: 681336
 file_type: application/pdf
 learning_resource_types:
