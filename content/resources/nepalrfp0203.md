@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a "Request for Proposals" which includes an explanatory note
   to prospective bidders, background information, and the basis for selection.
-file: /ol-ocw-studio-app/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/f524d757ff5adda35d6a625cb3abe94b_NepalRFP0203.pdf
+file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/f524d757ff5adda35d6a625cb3abe94b_NepalRFP0203.pdf
 file_size: 187676
 file_type: application/pdf
 learning_resource_types:
